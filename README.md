@@ -1,3 +1,19 @@
+SphereChess 
+
+Now Open source 
+
+By Jared Tuveson and Lukas Saul
+
+Status: The software version of this project was mostly abandoned years ago.  
+Physical spherical chess boards were made and games have been played.  
+The status of this software is that the board works and movement of pieces work, however no rules are implemented. 
+The next stages of this project will be to implement rules and an AI opponent.  
+
+Please acknowlege Jared Tuveson and Lukas Saul as the authors of this program if you use it in your project. 
+A patent in this repo is on file with the USPTO.  
+
+
+
 SPHERECHESS README FILE
 
 
