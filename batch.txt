@@ -1,0 +1,20 @@
+In your batch file try:
+@echo off%JAVA_PATH%\bin\javaw -cp . com.yourpackage.YourMainClass
+
+> Create a text file, rename it so that it's extension
+> is ".bat". Write the command line to it. Now you can
+> run the command line by double clicking the file in
+> eg. explorer.
+> 
+> Create a shortcut to the batch file (right click in
+> explorer on the file name / icon, select "create
+> shortcut" from the popup etc). Change the shortcut's
+> icon (right click on the icon, select properties, take
+> the leaf "program" from the properties dialog, click
+> on "change icon" (or something like that, I'm not
+> running an English system right now), select the icon
+> you want). Distribute.
+> 
+> But, that wont be necessary since jars are
+> automatically set to open in "javaw -jar" by the JRE
+> 1.2+ installer - that's what makes them "executable".
